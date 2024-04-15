@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">حاسبة مؤشر كتلة الجسم</string>
+    <string name="weight_tv">الوزن</string>
+    <string name="height_tv">الطول</string>
+    <string name="calculate_btn">احسب</string>
+    <string name="cm_tv">سم</string>
+    <string name="Kg_tv">كجم</string>
+
+</resources>

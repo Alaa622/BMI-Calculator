@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="layout_background">#0D0D3A</color>
+    <color name="card_background">#28425c</color>
+    <color name="text_hint">#737788</color>
+    <color name="Button_background">#FFC107</color>
+    <color name="Healthy">#4CAF50</color>
+    <color name="OverWeight_Obese">#F44336</color>
+    <color name="UnderWeight">#FFEB3B</color>
+    <color name="splashScreen_background">#000021</color>
+
+
+
+</resources>
